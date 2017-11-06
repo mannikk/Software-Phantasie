@@ -1,9 +1,12 @@
-# Software-Phantasie
-Software Entwicklungs-Animation
-drei
-vier
-fünf
-sechs
-sieben
-acht
-neuen
+
+fünfzehn
+sechzehn
+siebzehn
+achtzehn
+neunzehn
+zwanzig
+21
+22
+23
+24
+25
